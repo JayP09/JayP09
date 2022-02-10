@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 <a href=""><img src="/assets/Github Banner.jpg"></a>
 
-- 🔭 I’m currently working on Web 3.0 Based Projects.
+- 🔭 I’m currently working on Solidity Based Projects.
 - 🌱 I’m currently learning Full Stack Web Development and Solidity.
 - 👯 I’m looking to collaborate on Solidity Based Dapp Projects and Can help you with python, React.
 - 🤔 I’m looking for help with ...
