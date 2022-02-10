@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Solidity Based Projects**.
 - 🌱 I’m currently learning **Full Stack Web Development** and **Solidity**.
-- 👯 I’m looking to collaborate on **Solidity** Based Dapp Projects and Can help you with **Python**, **React**.
-- 💬 Ask me about **Web3.0, NFT, DAOs, Blockchain⛓, New Technolog, Astronomy🔭, Trading📈** and anything...
+- 👯 I’m looking to collaborate on **Blockchain** Based Dapp Projects and Can help you with **Python**, **React**.
+- 💬 Ask me about **Web3.0, NFT, DAOs, Blockchain⛓, New Technology, Astronomy🔭, Trading📈** and anything...
 
 ## Feel free to 🤝🏻 Connect with Me on
 
