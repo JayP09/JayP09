@@ -7,11 +7,10 @@ Here are some ideas to get you started:
 -->
 <a href=""><img src="/assets/Github Banner.jpg"></a>
 
-- 🔭 I’m currently working on Solidity Based Projects.
-- 🌱 I’m currently learning Full Stack Web Development and Solidity.
-- 👯 I’m looking to collaborate on Solidity Based Dapp Projects and Can help you with python, React.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Web3.0, NFT, DAOs, Blockchain⛓, New Technolog, Astronomy🔭, Trading📈 and anything...
+- 🔭 I’m currently working on **Solidity Based Projects**.
+- 🌱 I’m currently learning **Full Stack Web Development** and **Solidity**.
+- 👯 I’m looking to collaborate on **Solidity** Based Dapp Projects and Can help you with **Python**, **React**.
+- 💬 Ask me about **Web3.0, NFT, DAOs, Blockchain⛓, New Technolog, Astronomy🔭, Trading📈** and anything...
 
 ## Feel free to 🤝🏻 Connect with Me on
 
@@ -40,7 +39,7 @@ Here are some ideas to get you started:
 
 ## ⚡ Tech Stack
 
-### 🚀 Languages
+- ### 🚀 Languages
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998" />
@@ -53,7 +52,7 @@ Here are some ideas to get you started:
   <img alt="PHP" src="https://img.shields.io/badge/PHP-474A8A?style=for-the-badge&logo=php&logoColor=F7DF1E" />
 </p>
 
-### 🧩 Libraries & Framework
+- ### 🧩 Libraries & Framework
 
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -63,7 +62,7 @@ Here are some ideas to get you started:
   <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-### 🧑🏻‍💻 Tools & Platform
+- ### 🧑🏻‍💻 Tools & Platform
 
 <p align="center">
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -75,7 +74,7 @@ Here are some ideas to get you started:
   <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 </p>
 
-### 💻 Workspace
+- ### 💻 Workspace
 
 <p align="center">
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
