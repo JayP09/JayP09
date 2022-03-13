@@ -103,13 +103,13 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JayP09&repo=TragicSimpBot&hide_border=true&theme=radical" />
   <a href="https://github.com/JayP09/instamemexbot">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JayP09&repo=instamemexbot&hide_border=true&theme=radical" />
-   <a href="https://github.com/JayP09/simple-defi-app">
+   <a href="https://github.com/JayP09/domain">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JayP09&repo=domain&hide_border=true&theme=radical" />
    <a href="https://github.com/JayP09/NFT-Game">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JayP09&repo=NFT-Game&hide_border=true&theme=radical" />
-	   <a href="https://github.com/JayP09/NFT-Game">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JayP09&repo=Sci-dao-project&hide_border=true&theme=radical" />
-		   <a href="https://github.com/JayP09/NFT-Game">
+	   <a href="https://github.com/JayP09/Sci-dao-project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JayP09&repo=sci-dao-project&hide_border=true&theme=radical" />
+		 <a href="https://github.com/JayP09/simple-defi-app">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JayP09&repo=simple-defi-app&hide_border=true&theme=radical" />
 </p>
 
