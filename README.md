@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-<a href=""><img src="/assets/Github Banner.jpg"></a>
+<img src="/assets/Github Banner.jpg">
 
 - 🔭 I’m currently working on **Solidity Based Projects**.
 - 🌱 I’m currently learning **Full Stack Web Development** and **Solidity**.
