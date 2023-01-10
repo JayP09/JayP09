@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 -->
 <img src="/assets/Github Banner.jpg">
 
-- 🔭 I’m currently working on **Solidity Based Projects**.
-- 🌱 I’m currently learning **Full Stack Web Development** and **Solidity**.
-- 👯 I’m looking to collaborate on **Blockchain** Based Dapp Projects and Can help you with **Python**, **React**.
+- 🔭 I’m currently working on **React Based Projects**.
+- 🌱 I’m currently learning **Full Stack Web Development**.
+- 👯 I’m looking to collaborate on **Blockchain** Based Dapp Projects and Can help you with **Python**, **React**,**NextJS**.
 - 💬 Ask me about **Web3.0, NFT, DAOs, Blockchain⛓, New Technology, Astronomy🔭, Trading📈** and anything...
 
 ## Feel free to 🤝🏻 Connect with Me on
